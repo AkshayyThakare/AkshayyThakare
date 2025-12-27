@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Akshay Thakare**
-**Aspiring Data Analyst & AI/Machine Learning Enthusiast**  
+**Data Analyst & AI/Machine Learning Enthusiast**  
 I build data-driven solutions, analytics dashboards, and machine learning models to extract insights and solve real-world problems. My work spans ETL pipelines, interactive analytics, predictive models, and full-stack application prototypes.
 
 ---
